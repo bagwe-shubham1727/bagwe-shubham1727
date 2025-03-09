@@ -52,7 +52,7 @@ Beyond work, I actively develop projects that solve real-world problems, blendin
 
 ## ⚡ Fun fact
 
-- I love **solving Rubik’s cubes** and can solve one in under **a minute!**
+- I enjoy playing strategy-based video games—they help me think outside the box!
 
 ---
 
@@ -66,11 +66,5 @@ Beyond work, I actively develop projects that solve real-world problems, blendin
 - **Testing & Monitoring**: Jest, NUnit, Datadog  
 
 ---
-
-## 📊 GitHub Stats
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagwe-shubham1727&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagwe-shubham1727&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 🚀 I'm always open to collaborations and exciting opportunities—let’s build something amazing together!
