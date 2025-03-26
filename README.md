@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 # 👋 Hey, I'm Shubham Bagwe
 
 ### Software Developer | Problem Solver | Innovator
